@@ -43,6 +43,7 @@ git push -u origin main
 
 - `index.html`：主站点文件（含 CSS 和注释，便于二次维护）  
 - `privacy policy.html`：原始导出的隐私政策，仅作为参考，不参与页面渲染  
+- `terms.html`：条款与条件页面（临时版本，待后续美化）
 - `README.md`：当前说明文档
 
 ## 维护建议
